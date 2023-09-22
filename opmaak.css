@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #af618f;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #aad7ee on hover */
+  li a:hover {
+    background-color: rgb(243, 178, 218);
+    color: rgb(204, 36, 128);
